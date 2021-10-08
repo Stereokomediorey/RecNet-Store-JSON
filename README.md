@@ -15,4 +15,4 @@
 
 ### If you wanna Check it out
 
-*Go to https://gitlab.com/minorcrimes/recnet-catalog-json/-/blob/main/outfitdata.json
+* Go to https://gitlab.com/minorcrimes/recnet-catalog-json/-/blob/main/outfitdata.json
