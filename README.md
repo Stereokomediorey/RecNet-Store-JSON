@@ -12,3 +12,7 @@
 ### What IS NOT in the file
 * All items that CANNOT be obtained using Tokens
 * Items that ARE limited
+
+### If you wanna Check it out
+
+*Go to https://gitlab.com/minorcrimes/recnet-catalog-json/-/blob/main/outfitdata.json
